@@ -8,3 +8,13 @@ C:\Users\nikit\source\repos\GitTest2\form3\obj\Debug\form3.csproj.GenerateResour
 C:\Users\nikit\source\repos\GitTest2\form3\obj\Debug\form3.csproj.CoreCompileInputs.cache
 C:\Users\nikit\source\repos\GitTest2\form3\obj\Debug\form3.exe
 C:\Users\nikit\source\repos\GitTest2\form3\obj\Debug\form3.pdb
+C:\Users\nikit\Documents\GitHub\GitTest\form3\bin\Debug\form3.exe.config
+C:\Users\nikit\Documents\GitHub\GitTest\form3\bin\Debug\form3.exe
+C:\Users\nikit\Documents\GitHub\GitTest\form3\bin\Debug\form3.pdb
+C:\Users\nikit\Documents\GitHub\GitTest\form3\obj\Debug\form3.csproj.AssemblyReference.cache
+C:\Users\nikit\Documents\GitHub\GitTest\form3\obj\Debug\form3.Form2.resources
+C:\Users\nikit\Documents\GitHub\GitTest\form3\obj\Debug\form3.Properties.Resources.resources
+C:\Users\nikit\Documents\GitHub\GitTest\form3\obj\Debug\form3.csproj.GenerateResource.cache
+C:\Users\nikit\Documents\GitHub\GitTest\form3\obj\Debug\form3.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Documents\GitHub\GitTest\form3\obj\Debug\form3.exe
+C:\Users\nikit\Documents\GitHub\GitTest\form3\obj\Debug\form3.pdb
