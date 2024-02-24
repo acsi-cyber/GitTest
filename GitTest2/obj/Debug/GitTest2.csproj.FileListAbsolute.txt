@@ -12,3 +12,17 @@ C:\Users\nikit\source\repos\GitTest2\GitTest2\bin\Debug\form3.exe
 C:\Users\nikit\source\repos\GitTest2\GitTest2\bin\Debug\form3.pdb
 C:\Users\nikit\source\repos\GitTest2\GitTest2\bin\Debug\form3.exe.config
 C:\Users\nikit\source\repos\GitTest2\GitTest2\obj\Debug\GitTest2.csproj.CopyComplete
+C:\Users\nikit\Documents\GitHub\GitTest\GitTest2\bin\Debug\GitTest2.exe.config
+C:\Users\nikit\Documents\GitHub\GitTest\GitTest2\bin\Debug\GitTest2.exe
+C:\Users\nikit\Documents\GitHub\GitTest\GitTest2\bin\Debug\GitTest2.pdb
+C:\Users\nikit\Documents\GitHub\GitTest\GitTest2\bin\Debug\form3.exe
+C:\Users\nikit\Documents\GitHub\GitTest\GitTest2\bin\Debug\form3.pdb
+C:\Users\nikit\Documents\GitHub\GitTest\GitTest2\bin\Debug\form3.exe.config
+C:\Users\nikit\Documents\GitHub\GitTest\GitTest2\obj\Debug\GitTest2.csproj.AssemblyReference.cache
+C:\Users\nikit\Documents\GitHub\GitTest\GitTest2\obj\Debug\GitTest2.Form1.resources
+C:\Users\nikit\Documents\GitHub\GitTest\GitTest2\obj\Debug\GitTest2.Properties.Resources.resources
+C:\Users\nikit\Documents\GitHub\GitTest\GitTest2\obj\Debug\GitTest2.csproj.GenerateResource.cache
+C:\Users\nikit\Documents\GitHub\GitTest\GitTest2\obj\Debug\GitTest2.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Documents\GitHub\GitTest\GitTest2\obj\Debug\GitTest2.csproj.CopyComplete
+C:\Users\nikit\Documents\GitHub\GitTest\GitTest2\obj\Debug\GitTest2.exe
+C:\Users\nikit\Documents\GitHub\GitTest\GitTest2\obj\Debug\GitTest2.pdb

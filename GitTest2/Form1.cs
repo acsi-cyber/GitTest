@@ -36,5 +36,26 @@ namespace GitTest2
         {
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            int num1 = Convert.ToInt32(textBox2.Text);
+            int num2 = Convert.ToInt32(textBox3.Text);
+            num1 += num2;
+
+            Form2 frm2 = new Form2();
+            frm2.label1.Text = num1.ToString();
+            frm2.Show();
+        }
     }
 }
